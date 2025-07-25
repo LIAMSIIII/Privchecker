@@ -34,7 +34,7 @@ The scripts perform various checks to identify common privilege escalation vecto
 No installation is required. Simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/priv_checker.git
+git clone https://github.com/LIAMSIIII/priv_checker.git
 cd priv_checker
 ```
 
@@ -68,13 +68,7 @@ python3 linux.py
 
 This tool is intended for educational purposes and authorized security testing only. Use only on systems you own or have explicit permission to test. Unauthorized use of this tool against systems without proper authorization may be illegal and is strictly prohibited.
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
